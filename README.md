@@ -20,11 +20,11 @@ The dashboard currently displays data from April 2022 to June 2022, with the abi
 
 Metrics Tracked
 
-Attendance Percentage
-Work From Home (WFH) Percentage
-Sick Leave (SL) Percentage
-Present Days
-Employee-specific attendance patterns
+Attendance Percentage,
+Work From Home (WFH) Percentage,
+Sick Leave (SL) Percentage,
+Present Days,
+Employee-specific attendance patterns.
 
 Usage
 
