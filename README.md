@@ -1,6 +1,8 @@
 # Atliq_Presence_insights
 
 Overview
+
+
 Atliq Presence Insights is a Power BI dashboard that provides comprehensive employee attendance analytics. It offers insights into attendance patterns, work-from-home trends, and sick leave statistics.
 
 Key Features
